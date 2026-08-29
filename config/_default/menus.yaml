@@ -2,12 +2,19 @@ main:
   - name: People
     url: people/
     weight: 10
+  - name: Projects
+    url: project/
+    weight: 20
   - name: Publications
     url: publication/
-    weight: 20
+    weight: 30
   - name: News
     url: post/
-    weight: 30
+    weight: 40
+  - name: Gallery
+    url: gallery/
+    weight: 50
   - name: Contact
     url: contact/
-    weight: 40
+    weight: 60
+
