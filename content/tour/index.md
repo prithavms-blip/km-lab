@@ -9,7 +9,7 @@ sections:
     content:
       slides:
       - title:  Welcome to the group
-        content: We are a research group exploring materials, chemistry, biology, and engineering - from functionalized mesoporous materials and polymer-based hemostatic systems to
+        content: We are a research group exploring materials, chemistry, biology, and engineering, from functionalized mesoporous materials and polymer-based hemostatic systems to
 superhydrophobic surfaces, clay-based batteries, and carbon capture. We're a vibrant
 team that loves great science and good company.
         align: center
