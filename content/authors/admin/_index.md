@@ -38,7 +38,25 @@ social:
 highlight_name: true
 user_groups:
   - Principal Investigators
+---
 
+Dr. Kausik Mukhopadhyay received his B.S. and M.S. degrees in Chemistry from the
+University of Calcutta (India) and his PhD in Chemistry from the National Chemical
+Laboratory, Pune (India). He carried out postdoctoral research with Prof. Tom Pinnavaia
+at Michigan State University and with Prof. Sherine Obare at the University of North
+Carolina. He then spent a decade in industry leading multidisciplinary projects funded
+by the DOD Army, Office of Naval Research, Air Force, CBD, NASA, OSD, and DoE, for which
+he was the principal investigator.
+
+Dr. Mukhopadhyay directs the Hybrid Materials Laboratory in the MSE department at UCF,
+where his team studies materials, chemistry, biology, and engineering to solve problems
+in surfaces, coatings, and films; electrochemistry (batteries and corrosion); sensors;
+heterogeneous catalysis; and hemostatic burn-wound bandage systems for military
+medicine. He has led projects funded by the Department of Homeland Security, FEMA, FSRP,
+and NASA. He is the MSE Undergraduate Lab Director and MSE representative for the UCF
+Undergraduate Research Council, and a member of the American Chemical Society, Materials
+Research Society, International Zeolite Association, Electrochemical Society, American
+Ceramic Society, and Society for Biomaterials.
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
