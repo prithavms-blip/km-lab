@@ -7,7 +7,7 @@ sections:
     content:
       title: KM Lab
       image:
-        filename: welcome.jpg
+        filename: summary.jpg
       text: |
         <br>
 
