@@ -1,25 +1,24 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Dr. Kausik Mukhopadhyay
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Kausik
+last_name: Mukhopadhyay
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Principal Investigator & Group Leader
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: University of Central Florida
+    url: 'https://www.ucf.edu/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+bio: ...
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -27,15 +26,18 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Chemistry
+      institution: National Chemical Laboratory, Pune (India)
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:kausik@ucf.edu'
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=J0AU2TIAAAAJ
+highlight_name: true
+user_groups:
+  - Principal Investigators
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
