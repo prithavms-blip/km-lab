@@ -11,7 +11,7 @@ sections:
       text: |
         <br>
 
-        **Hybrid Materials for Surface and Bio Applications**
+        **Hybrid Materials for Energy and Bio Applications**
 
         We are a research group exploring materials, chemistry, biology, and engineering — from functionalized mesoporous materials and polymer-based hemostatic systems to superhydrophobic surfaces, clay-based batteries, and carbon capture.
   - block: collection
