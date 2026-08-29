@@ -1,7 +1,6 @@
 ---
 title: "Denee's Project"
 summary: "Placeholder — project title and summary to be added."
-date: 2024-01-05
 image:
   caption: ''
   focal_point: Smart
