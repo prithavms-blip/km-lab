@@ -1,7 +1,6 @@
 ---
 title: "Tough Hydrogels for Versatile Applications"
 summary: "Placeholder — describe the tough hydrogels work here."
-date: 2024-01-03
 image:
   caption: ''
   focal_point: Smart
