@@ -3,7 +3,6 @@ title: "Clay-based Batteries and Supercapacitors"
 summary: "Placeholder — describe the clay-based battery and supercapacitor work here."
 date: 2024-01-01
 image: 
-  filename: clay project.jpeg
   caption: ''
   focal_point: Smart
 ---
