@@ -1,22 +1,19 @@
 ---
-# Leave the homepage title empty to use the site title
 title:
 date: 2022-10-24
 type: landing
-
 sections:
   - block: hero
     content:
-      title: |
-        Wowchemy
-        Research Group
+      title: KM Lab
       image:
         filename: welcome.jpg
       text: |
         <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-  
+
+        **Hybrid Materials for Surface and Bio Applications**
+
+        We are a research group exploring materials, chemistry, biology, and engineering — from functionalized mesoporous materials and polymer-based hemostatic systems to superhydrophobic surfaces, clay-based batteries, and carbon capture.
   - block: collection
     content:
       title: Latest News
@@ -35,40 +32,29 @@ sections:
     design:
       view: card
       columns: '1'
-  
   - block: markdown
     content:
-      title:
+      title: Research Areas
       subtitle: ''
-      text:
+      text: |
+        **Surface Engineering** · **Biomaterials** · **Mesoporous Materials** · **Carbon Capture**
+
+        Our work spans surfaces, coatings, and films; electrochemistry (batteries and corrosion); sensors; heterogeneous catalysis; and hemostatic and burn-wound bandage systems for military medicine.
     design:
       columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
-
   - block: collection
     content:
-      title: Latest Preprints
+      title: Featured Publications
       text: ""
       count: 5
       filters:
         folders:
           - publication
-        publication_type: 'article'
+        exclude_featured: false
+        publication_type: ''
     design:
       view: citation
       columns: '1'
-
   - block: markdown
     content:
       title:
