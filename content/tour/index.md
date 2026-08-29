@@ -15,7 +15,7 @@ team that loves great science and good company."
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: summary.jpeg
             filters:
               brightness: 0.7
           position: right
@@ -25,7 +25,7 @@ team that loves great science and good company."
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: GP knot.JPG
             filters:
               brightness: 0.7
           position: center
