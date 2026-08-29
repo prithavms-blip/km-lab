@@ -8,8 +8,10 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title:  Welcome to the group
+        content: We are a research group exploring materials, chemistry, biology, and engineering - from functionalized mesoporous materials and polymer-based hemostatic systems to
+superhydrophobic surfaces, clay-based batteries, and carbon capture. We're a vibrant
+team that loves great science and good company.
         align: center
         background:
           image:
@@ -18,8 +20,8 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: Key areas
+        content: Mesoporous Materials, Phyllosilicates, Biomaterials, Surface Engineering
         align: left
         background:
           image:
@@ -28,19 +30,7 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
-        align: right
-        background:
-          image:
-            filename: welcome.jpg
-            filters:
-              brightness: 0.5
-          position: center
-          color: '#333'
-        link:
-          icon: graduation-cap
-          icon_pack: fas
+      
           text: Join Us
           url: ../contact/
     design:
