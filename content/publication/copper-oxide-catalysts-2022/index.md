@@ -1,6 +1,6 @@
 ---
 title: "Nickel Foam Supported Porous Copper Oxide Catalysts with Noble Metal-like Activity for Aqueous Phase Reactions"
-authors: ["L. R. Shultz", "K. Preradovic", "Suvash Ghimire", "V. Kashyap", "F. Liu", "admin", "T. Jurca"]
+authors: ["L. R. Shultz, et al."]
 date: "2022-01-01"
 publication_types: ["article-journal"]
 publication: "*Catalysis Science & Technology*, 12, 3804"
