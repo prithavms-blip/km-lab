@@ -14,6 +14,9 @@ main:
   - name: Gallery
     url: gallery/
     weight: 50
+  - name: SFB @UCF
+    url: sfb/
+    weight: 55
   - name: Contact
     url: contact/
     weight: 60
