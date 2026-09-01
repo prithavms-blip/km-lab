@@ -15,7 +15,7 @@ team that loves great science and good company."
         align: center
         background:
           image:
-            filename: summary.jpeg
+            filename: summary.jpg
             filters:
               brightness: 0.7
           position: right
