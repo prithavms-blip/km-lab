@@ -1,6 +1,6 @@
 ---
 title: "Micropore-forming Photocurable Tissue Adhesive Promotes Cell Infiltration for Wound Healing"
-authors: ["A. Nishiguchi", "et. al"]
+authors: ["Kausik Mukhopadhyay, et al."]
 date: "2025-01-01"
 publication_types: ["article-journal"]
 publication: "*Acta Biomaterialia*"
