@@ -1,6 +1,6 @@
 ---
 title: "Clay-based Batteries and Supercapacitors"
-summary: "Placeholder — describe the clay-based battery and supercapacitor work here."
+summary: "Our group develops clay-amino acids based materials for next-generation energy storage devices. We design flexible, biocompatible supercapacitors that move beyond conventional electrode materials, and high-endurance, molecularly tailored separators that improve the safety and cycling stability of lithium-ion batteries. Building on this platform, we are extending our clay-amino acid chemistry toward clay-based anode materials for Li-ion batteries, aiming to combine sustainability, mechanical flexibility, and electrochemical performance in a single materials system."
 image: 
   caption: ''
   focal_point: Smart
