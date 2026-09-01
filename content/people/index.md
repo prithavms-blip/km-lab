@@ -1,25 +1,43 @@
 ---
 title: People
-date: 2022-10-24
-
+date: 2024-01-01
 type: landing
-
 sections:
   - block: people
     content:
-      title: Meet the Team
-      # Choose which groups/teams of users to display.
-      #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
+      title: Our Team
+      text: ''
+      username_filters: []
       user_groups:
-          - Principal Investigators
-          - Postdoctoral Researchers
-          - Graduate Students
-          - Undergraduate Students
-          - Alumni
-      sort_by: Params.last_name
-      sort_ascending: true
+        - Principal Investigators
+        - Postdoctoral Researchers
+        - Graduate Students
+        - Undergraduate Researchers
     design:
       show_interests: false
       show_role: true
       show_social: true
+  - block: markdown
+    content:
+      title: Alumni
+      text: |
+        - Malisha Islam Tapotee — MS, Summer 2026
+        - Disha Iyengar — BS, Spring 2026 (now Case Western Reserve medical school)
+        - Daniel Cuevas Ortiz — Undergraduate Researcher (Universidad de Cantabria, Spain)
+        - Kathia Serrano Perez — Visiting Researcher (Yale)
+        - Anya Shah — High School Researcher
+        - Dr. Suvash Ghimire — Postdoctoral Researcher (2024); PhD, Summer 2024
+        - Dr. Priyanka Makkar — Postdoctoral Researcher (2023–2024)
+        - Sofia Garneri — NSF REU Researcher, Summer 2024 (Notre Dame)
+        - Lilian Hoang — Undergraduate Researcher
+        - Aayna Bhatheja — High School Researcher
+        - Alexandre Bonnin — Graduate Intern
+        - Philippe Andre — Undergraduate Researcher
+        - Sergey Vlasov — Undergraduate Researcher
+        - Ryan Wood — Undergraduate Researcher
+        - Dr. Varchaswal Kashyap — Postdoctoral Researcher (2021–2022)
+        - Kasey Rigby — Undergraduate Researcher (now UCF Medical School)
+        - Annika Vaidyanathan — High School Researcher (now MIT)
+    design:
+      columns: '1'
 ---
