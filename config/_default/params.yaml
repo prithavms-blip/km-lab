@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© 2026 KM Lab.
     license:
       enable: true
       allow_derivatives: false
@@ -116,3 +116,4 @@ extensions:
 publications:
   date_format: January 2006
   citation_style: apa
+  max_authors: 1
