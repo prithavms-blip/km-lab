@@ -3,7 +3,7 @@ title: "Engineering Flexible and Biocompatible Supercapacitors Weaved from Layer
 authors: ["Md Roxy Islam, et al."]
 date: "2026-08-01"
 publication_types: ["article-journal"]
-publication: "*Angewandte Chemie*"
+publication: "*Angewandte Chemie International Edition*"
 doi: "10.1002/anie.3295676"
 featured: true
 links:
