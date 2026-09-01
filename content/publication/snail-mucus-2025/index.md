@@ -1,6 +1,6 @@
 ---
 title: "Emergence of Snail Mucus as a Multifunctional Biogenic Material for Biomedical Applications"
-authors: ["Pritha Sarkar", "admin"]
+authors: ["Pritha Sarkar, et al."]
 date: "2025-01-01"
 publication_types: ["article-journal"]
 publication: "*Acta Biomaterialia*"
