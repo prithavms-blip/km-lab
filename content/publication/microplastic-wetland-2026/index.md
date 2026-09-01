@@ -1,6 +1,6 @@
 ---
 title: "Microplastic Removal and Textile Degradation in a Constructed Treatment Wetland"
-authors: ["K. Johnsen", "admin"]
+authors: ["K. Johnsen, et al."]
 date: "2026-01-01"
 publication_types: ["article-journal"]
 publication: "*Ecological Engineering*"
