@@ -1,5 +1,5 @@
 ---
-title: Denee' Lichtenburg
+title: Denee' Lichtenberg
 role: PhD Student
 bio: PhD student in Materials Science and Engineering at UCF.
 social:
