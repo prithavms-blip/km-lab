@@ -1,6 +1,6 @@
 ---
 title: "Polymeric Materials for Hemostatic Wound Healing"
-authors: ["Suvash Ghimire", "Pritha Sarkar", "K. Rigby", "A. Maan", "S. Mukherjee", "K. E. Crawford", "admin"]
+authors: ["Suvash Ghimire, et al."]
 date: "2021-01-01"
 publication_types: ["article-journal"]
 publication: "*Pharmaceutics*, 13, 2127"
