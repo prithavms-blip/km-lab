@@ -1,6 +1,6 @@
 ---
 title: "Antibacterial Sponge for Rapid Noncompressible Hemostatic Treatment: Spatiotemporal Studies Using a Noninvasive Model"
-authors: ["Pritha Sarkar", "et. al"]
+authors: ["Pritha Sarkar, et al."]
 date: "2024-01-01"
 publication_types: ["article-journal"]
 publication: "*Biomaterials Science*, 12(16), 4155–4169"
