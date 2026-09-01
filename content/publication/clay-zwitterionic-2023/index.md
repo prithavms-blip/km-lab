@@ -1,6 +1,6 @@
 ---
 title: "Effect of Clay-Zwitterionic Interactions in Controlling the Viscoelastic Properties in Organomodified Clays"
-authors: ["Pritha Sarkar", "Suvash Ghimire", "et. al"]
+authors: ["Pritha Sarkar, et al."]
 date: "2023-01-01"
 publication_types: ["article-journal"]
 publication: "*iScience*, 26(12), 108388"
