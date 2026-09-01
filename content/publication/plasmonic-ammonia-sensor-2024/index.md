@@ -1,6 +1,6 @@
 ---
 title: "Self-Assembled Plasmonic Structural Color Colorimetric Sensor for Smartphone-Based Point-of-Care Ammonia Detection in Water"
-authors: ["M. Soudi", "P. Cencillo-Abad", "J. Patel", "Suvash Ghimire", "J. Dillon", "A. Biswas", "admin", "D. Chanda"]
+authors: ["M. Soudi, et al."]
 date: "2024-01-01"
 publication_types: ["article-journal"]
 publication: "*ACS Applied Materials & Interfaces*, 16, 45632"
