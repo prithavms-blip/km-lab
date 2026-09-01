@@ -5,7 +5,7 @@ bio: PhD student in Materials Science and Engineering at UCF.
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:denee.lichtenburg@ucf.edu'
+    link: 'mailto:denee.lichtenberg@ucf.edu'
 user_groups:
   - Graduate Students
 ---
