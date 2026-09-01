@@ -1,5 +1,5 @@
 ---
-title: "Denee' Lichtenburg Completes Summer SULI Program at LANL"
+title: "Denee' Lichtenberg Completes Summer SULI Program at LANL"
 date: "2026-05-30"
 ---
 
